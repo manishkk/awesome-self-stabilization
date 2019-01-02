@@ -1,5 +1,7 @@
 # awesome-self-stabilization 
 
+[Self-stabilization](https://en.wikipedia.org/wiki/Self-stabilization) is a concept of fault-tolerance in distributed computing. A distributed system that is self-stabilizing will end up in a correct state no matter what state it is initialized with. That correct state is reached after a finite number of execution steps.
+
 ## Contents
 
 - [Theory](#theory)
