@@ -25,3 +25,6 @@
 
 ## Conferences
 - [Self-stabilization](http://www.selfstabilization.org/~selfstab/) - Meetings, Conferences, and Events on Self-Stabilizing Systems.
+- [PODC](https://www.podc.org/) - ACM Symposium on Principles of Distributed Computing.
+- [DISC](http://www.disc-conference.org/wp/) - International Symposium on DIStributed Computing.
+- [SRDS](https://srds2019.projet.liris.cnrs.fr/) - IEEE International Symposium on Reliable Distributed Systems
