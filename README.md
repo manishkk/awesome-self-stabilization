@@ -24,4 +24,4 @@
 
 
 ## Conferences
-- [Self-stabilization](http://www.selfstabilization.org/~selfstab/) - CMeetings, Conferences, and Events on Self-Stabilizing Systems.
+- [Self-stabilization](http://www.selfstabilization.org/~selfstab/) - Meetings, Conferences, and Events on Self-Stabilizing Systems.
