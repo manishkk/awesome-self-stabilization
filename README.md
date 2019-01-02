@@ -1,1 +1,1 @@
-# awesome-self-stabilization [![Awesome]
+# awesome-self-stabilization 
