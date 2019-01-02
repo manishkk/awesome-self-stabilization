@@ -15,7 +15,7 @@
 
 ### Books
 
-- [Applications of Secure Multiparty Computation](http://ebooks.iospress.nl/volume/applications-of-secure-multiparty-computation) - Collection of MPC protocols for several real-world tasks such as statistics.
+- [Self-Stabilization](http://mitpress.mit.edu/books/self-stabilization) - by [Shlomi Dolev](https://en.wikipedia.org/wiki/Shlomi_Dolev)
 
 ### Courses
 
