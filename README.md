@@ -9,7 +9,7 @@
 - [Misc](#misc)
 - [Software](#software)
 	- [Tools](#tools)
-- [Conferences and Workshops](#Conferences and Workshops)
+- [Conferences](#Conferences)
 
 ## Theory
 
@@ -30,4 +30,4 @@
 
 ### Tools
 
-## Conferences and Workshops
+## Conferences
