@@ -16,6 +16,7 @@
 ### Books
 
 - [Self-Stabilization](http://mitpress.mit.edu/books/self-stabilization) - by [Shlomi Dolev](https://en.wikipedia.org/wiki/Shlomi_Dolev)
+- [Introduction to Distributed Self-Stabilizing Algorithms](https://www.morganclaypool.com/doi/abs/10.2200/S00908ED1V01Y201903DCT015)
 
 ### Courses
 
